@@ -1,1 +1,1 @@
-# toxicityDetector
+# toxic comment classifier
